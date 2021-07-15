@@ -1,0 +1,13 @@
+data/SecurityPreferences.java
+ data.SecurityPreferences
+com/example/festafimdeano/BuildConfig.java
+ com.example.festafimdeano.BuildConfig
+constant/FimDeAnoConstants.java
+ constant.FimDeAnoConstants
+view/DetailsActivity.java
+ view.DetailsActivity
+ view.DetailsActivity$1
+ view.DetailsActivity$ViewHolder
+view/MainActivity.java
+ view.MainActivity
+ view.MainActivity$ViewHolder
